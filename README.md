@@ -17,7 +17,7 @@ The main purpose of this project is to predict bike share rental demand and grou
 
 ## Methods Used
 * Data Manipulation & Cleanup
-* Machine Learning (Linear Regression & K-Means Clustering)
+* Machine Learning (Linear Regression, K-Means Clustering, Supervised Learning)
 * Data Visualization
 
 ## Technologies
